@@ -208,4 +208,4 @@ syn match lodashHighlight "_.runInContext"
 syn match lodashHighlight "_.times"
 syn match lodashHighlight "_.uniqueId"
 
-hi link lodashHighlight Special
+hi link lodashHighlight Function
