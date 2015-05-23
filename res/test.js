@@ -1,0 +1,12 @@
+_.isFunction
+_.chunk
+_.isArray
+_.flattenDeep
+_.flatten
+_.take
+_.takeRight
+_.takeWhile
+_.takeRightWhile
+_.union
+_.uniq
+_aunique
